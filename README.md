@@ -4,7 +4,7 @@
 * [Lab 1 - PCA](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom.ipynb)
 * [Lab 2 - Clustering](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom2.ipynb)
 * [Lab 3 - Regression](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom_3.ipynb)
-* [Lab 4 - Kernel methods](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom_5.ipynb)
+* [Lab 5 - Kernel methods](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom_5.ipynb)
 
 
 
