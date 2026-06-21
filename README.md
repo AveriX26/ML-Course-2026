@@ -9,6 +9,7 @@
 * [Lab 9 - MLP](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom_9.ipynb)
 * [Lab 11 - NLP](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom_11.ipynb)
 * [Lab 12 - Shapes Project](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom_12.ipynb)
+* [Lab 13 - Transverse Convolution](https://github.com/AveriX26/ML-Course-2026/blob/main/zad_dom_13.ipynb)
 
 
 
